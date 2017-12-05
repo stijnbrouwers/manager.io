@@ -11,3 +11,5 @@ Open your browser http://dockerhost:8080
 Docker:
 login:
 `docker login --username=yourhubusername`
+images:
+`docker images`
