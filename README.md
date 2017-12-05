@@ -19,5 +19,6 @@ push:</br>
 `docker push s6s8/mono:latest`
 
 ### Manager Version:</br>
+`https://www.manager.io/version.txt`
 `https://www.manager.io/desktop/download/`</br>
 `wget https://mngr.s3.amazonaws.com/17.12.3/ManagerServer.tar.gz`
