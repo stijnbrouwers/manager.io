@@ -10,7 +10,7 @@ Open your browser http://dockerhost:8080
 
 Docker:
 
-login:
+login:</br>
 `docker login --username=yourhubusername`
-images:
+images:</br>
 `docker images`
