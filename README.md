@@ -10,7 +10,7 @@ Open your browser http://dockerhost:8080
 
 ### Docker:</br>
 buid:</br>
-`docker build -t s6s8/manager:latest PATH` </br>
+`docker build -t s6s8/manager:latest .` </br>
 login:</br>
 `docker login --username=yourhubusername` </br>
 images:</br>
