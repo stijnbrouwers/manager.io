@@ -18,7 +18,7 @@ images:</br>
 change tag:</br>
 `docker tag bb38976d03cf s6s8/manager:latest`</br>
 push:</br>
-`docker push s6s8/mono:latest`
+`docker push s6s8/manager:latest`
 
 ### Manager Version:</br>
 `https://www.manager.io/version.txt`</br>
