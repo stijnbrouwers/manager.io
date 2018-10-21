@@ -1,6 +1,5 @@
 FROM mono:latest
 # MAINTAINER <s6s8/Mike>
-TAG 18.10.81
 
 RUN mkdir /manager /data
 WORKDIR /manager
