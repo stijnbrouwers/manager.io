@@ -1,6 +1,5 @@
 ## APP
-Dockerized http://manager.io
-
+Dockerized http://manager.io  
 FREE Full-Featured Accounting Software
 
 The data stored in a separate data volume container "/data" folder.  
