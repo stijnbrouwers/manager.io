@@ -6,12 +6,11 @@ The data stored in a separate data volume container "/data" folder.
 Create data folder, and run:
 
 ## RUNNING
-Simple RUN:
+#### Simple RUN:
 ```
 $ docker run -d s6s8/manager.io
 ```
-
-Preferred way to RUN:
+#### Preferred way to RUN:
 ```
 $ docker run -d \
   -p 8080:8080 \
