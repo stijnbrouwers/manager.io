@@ -10,6 +10,7 @@ Simple RUN:
 ```
 $ docker run -d s6s8/manager.io
 ```
+
 Preferred way to RUN:
 ```
 $ docker run -d \
