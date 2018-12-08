@@ -1,5 +1,6 @@
 FROM mono:latest
-# MAINTAINER <s6s8/Mike>
+# MAINTAINER
+# <s6s8/Mike>
 
 RUN mkdir /manager /data
 WORKDIR /manager
