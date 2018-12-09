@@ -22,7 +22,7 @@ $ docker run -d \
 ```
 Open your browser http://dockerhost:8080
 ## UPDATING
-### WARNING! MAKE SURE TO BACKUP ALL THE FILES!!!
+### WARNING! MAKE SURE TO BACKUP ALL FILES!!!
 ##### FROM MANAGER:
 ```
 Open the business name -> backup
