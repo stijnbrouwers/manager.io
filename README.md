@@ -1,6 +1,6 @@
 ## APP
 Dockerized http://manager.io  
-FREE Full-Featured Accounting Software
+FREE Full-Featured Accounting Software1
 
 The data stored in a separate data volume container "/data" folder.  
 Create data folder, and run:
