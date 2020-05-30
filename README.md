@@ -39,5 +39,3 @@ $ docker pull s6s8/manager.io
 
 ```
 Running docker prefered way, should remount the /data/ folder, and all files should be in place. If not, restore from the backup location.
-
-_
